@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-03-05T16:39:42Z" name="Default suite" finished-at="2022-03-05T16:40:06Z" duration-ms="24531">
+    <groups>
+    </groups>
+    <test started-at="2022-03-05T16:39:42Z" name="Default test" finished-at="2022-03-05T16:40:06Z" duration-ms="24531">
+      <class name="com.dinesh.Phase5lession2.BeofreMethodAnnotation">
+        <test-method is-config="true" signature="startbrowser()[pri:0, instance:com.dinesh.Phase5lession2.BeofreMethodAnnotation@1349883]" started-at="2022-03-05T16:39:42Z" name="startbrowser" finished-at="2022-03-05T16:39:43Z" duration-ms="917" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startbrowser -->
+        <test-method signature="TestWikiHomepage()[pri:49, instance:com.dinesh.Phase5lession2.BeofreMethodAnnotation@1349883]" started-at="2022-03-05T16:39:43Z" name="TestWikiHomepage" finished-at="2022-03-05T16:39:55Z" duration-ms="12443" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestWikiHomepage -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:com.dinesh.Phase5lession2.BeofreMethodAnnotation@1349883]" started-at="2022-03-05T16:39:55Z" name="closeBrowser" finished-at="2022-03-05T16:39:59Z" duration-ms="4177" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method is-config="true" signature="startbrowser()[pri:0, instance:com.dinesh.Phase5lession2.BeofreMethodAnnotation@1349883]" started-at="2022-03-05T16:39:59Z" name="startbrowser" finished-at="2022-03-05T16:40:00Z" duration-ms="720" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startbrowser -->
+        <test-method signature="TestWikiLoginPage()[pri:50, instance:com.dinesh.Phase5lession2.BeofreMethodAnnotation@1349883]" started-at="2022-03-05T16:40:00Z" name="TestWikiLoginPage" finished-at="2022-03-05T16:40:06Z" duration-ms="6213" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestWikiLoginPage -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:com.dinesh.Phase5lession2.BeofreMethodAnnotation@1349883]" started-at="2022-03-05T16:40:06Z" name="closeBrowser" finished-at="2022-03-05T16:40:06Z" duration-ms="48" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- com.dinesh.Phase5lession2.BeofreMethodAnnotation -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
